@@ -17,7 +17,7 @@ function renderUI(data) {
     const product = products[i];
     const firstTitle = product.title;
     const firstTath = product.thumbnail;
-    console.log(firstTitle, firstTath);
+    // console.log(firstTitle, firstTath);
 
     // Create a card div
     const card = document.createElement("div");

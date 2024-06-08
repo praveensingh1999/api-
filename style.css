@@ -3,8 +3,11 @@
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
+  background-color:powderblue;
 }
-
+.card{
+  background-color: white;
+}
 .topnav {
   overflow: hidden;
   background-color: hsl(0, 5%, 9%);
